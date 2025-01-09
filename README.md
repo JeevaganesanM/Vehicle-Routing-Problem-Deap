@@ -65,8 +65,6 @@ The final output includes a plot showing:
 ### Example Output Image
 ![Optimized VRP Route](https://github.com/JeevaganesanM/Vehicle-Routing-Problem-Deap/blob/main/Output.png)
 
-> **Note:** Ensure the output image is saved in the `images` folder inside your repository.
-
 ## Future Enhancements
 - Implement **real-world constraints** (vehicle capacity, time windows).
 - Use **advanced crossover/mutation** strategies.
