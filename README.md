@@ -63,7 +63,7 @@ The final output includes a plot showing:
 - **Optimized routes for each vehicle (colored lines)**
 
 ### Example Output Image
-![Optimized VRP Route](images/VRP.png)
+![Optimized VRP Route](https://github.com/JeevaganesanM/Vehicle-Routing-Problem-Deap/blob/main/Output.png)
 
 > **Note:** Ensure the output image is saved in the `images` folder inside your repository.
 
